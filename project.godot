@@ -15,4 +15,5 @@ _global_script_class_icons={
 
 [application]
 
+config/name="Export Dir Test"
 run/main_scene="res://Main.tscn"
